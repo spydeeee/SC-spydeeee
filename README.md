@@ -15,8 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="[https://google.com](https://github.com/spydeeee/Splunk-Home-Lab/blob/main/README.md)">Splunk Home Lab</a>|
-| Network Traffic Monitoring and Attack Detection |<a href="[https://google.com](https://github.com/spydeeee/Splunk-Home-Lab/blob/main/README.md)">Splunk Home Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/spydeeee/Splunk-Home-Lab/blob/main/README.md">Splunk Home Lab</a>|
+| Network Traffic Monitoring and Attack Detection |<a href="https://github.com/spydeeee/Splunk-Home-Lab/blob/main/README.md">Splunk Home Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
