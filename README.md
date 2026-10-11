@@ -43,7 +43,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-Splunk-800000?style=for-the-badge&logo=Splunk&logoColor=white" />
 </a>
 </div>
-https://github.com/spydeeee/Wazuh-Home-Leb
+
 
 ## Projects
 - <a href="https://github.com/spydeeee/Splunk-Home-Lab/blob/main/README.md">Splunk Home Lab</a>
