@@ -37,7 +37,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-4A90E2?&style=for-the-badge&logo=wazuh&logoColor=white" />
-    <img src="[https://img.shields.io/badge/-github.com/spydeeee/Splunk-Home-Lab)&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-github.com/spydeeee/Splunk-Home-Lab&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 
