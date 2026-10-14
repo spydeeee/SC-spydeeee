@@ -47,3 +47,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/spydeeee/Splunk-Home-Lab/blob/main/README.md">Splunk Home Lab</a>
 - <a href="https://github.com/spydeeee/Wazuh-Home-Leb">Wazuh Home Lab</a>
+- <a
+href="https://github.com/spydeeee/SC-OpenEDR-deployment">OpenEDR Deployment </a>
