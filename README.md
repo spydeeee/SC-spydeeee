@@ -30,7 +30,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Endpoint
 <div>
-<a href="https://github.com/spydeeee/SC-OpenEDR-deployment"><img src="https://img.shields.io/badge/-OpenEDR-0078D4?&style=for-the-badge&logo=shield&logoColor=white" /></a>
+<a href="https://github.com/spydeeee/SC-OpenEDR-deployment."><img src="https://img.shields.io/badge/-OpenEDR-0078D4?&style=for-the-badge&logo=shield&logoColor=white" /></a>
 </div>
 
 ### SIEM
@@ -48,4 +48,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/spydeeee/Splunk-Home-Lab/blob/main/README.md">Splunk Home Lab</a>
 - <a href="https://github.com/spydeeee/Wazuh-Home-Leb">Wazuh Home Lab</a>
 - <a
-href="https://github.com/spydeeee/SC-OpenEDR-deploymenta">OpenEDR Deployment </a>
+href="https://github.com/spydeeee/SC-OpenEDR-deploymenta.">OpenEDR Deployment </a>
