@@ -17,6 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/spydeeee/Splunk-Home-Lab/blob/main/README.md">Splunk Home Lab</a>|
 | Network Traffic Monitoring and Attack Detection |<a href="https://github.com/spydeeee/Splunk-Home-Lab/blob/main/README.md">Splunk Home Lab</a>|
+| Endpoint Detection & Response (EDR) Threat Triage & IOC Enrichment| <a href="https://github.com/spydeeee/SC-OpenEDR-deploymenta.">OpenEDR Deployment </a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -47,5 +48,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/spydeeee/Splunk-Home-Lab/blob/main/README.md">Splunk Home Lab</a>
 - <a href="https://github.com/spydeeee/Wazuh-Home-Leb">Wazuh Home Lab</a>
-- <a
-href="https://github.com/spydeeee/SC-OpenEDR-deploymenta.">OpenEDR Deployment </a>
+- <a href="https://github.com/spydeeee/SC-OpenEDR-deploymenta.">OpenEDR Deployment </a>
